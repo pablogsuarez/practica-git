@@ -1,4 +1,5 @@
 #Practica con GIT
+
 Getting & Creating Projects
 Command 	Description
 git init 	Initialize a local Git repository
